@@ -8,8 +8,6 @@ Sesli Komut Algılama: Söylediklerinizi anında metne dönüştürür.
 
 -Uygulama Başlatma: Chrome, Not Defteri, Discord gibi uygulamaları sesle açabilir.
 
--Matematik Çözücü: SymPy kullanarak karmaşık matematiksel denklemleri çözebilir.
-
 -Ekran Görüntüsü: Sesli komutla anlık ekran görüntüsü alıp kaydedebilir.
 
 -Not Alma: Söylediğiniz notları otomatik olarak bir metin dosyasına kaydeder.
